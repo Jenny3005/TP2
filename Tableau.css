@@ -1,0 +1,21 @@
+table{
+   border-collapse: collapse;
+}
+td{
+   border: 1px solid black;
+   padding:  2px;
+}
+#IG{
+   color: Blue;
+   background:red;
+}
+#I{
+  font-family: Arial;
+  font-size: 24px;
+}
+#GRH{
+    background: yellow;
+}
+h1{
+   color:Blue;
+}

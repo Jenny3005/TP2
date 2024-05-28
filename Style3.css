@@ -1,0 +1,17 @@
+#image1{
+         position:absolute;
+         width :200px;
+         height:150px;
+}
+#image2{
+         position:absolute;
+         width :75px;
+         height:75px;
+}
+.Contenu{
+        background:aqua;
+}
+td{
+   border: 1px solid black;
+   padding:  2px;
+}

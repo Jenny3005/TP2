@@ -1,0 +1,45 @@
+ #image1{
+          position:absolute;
+          width : 200px;
+          height : 150px;
+          top:0;
+          left:0;
+ }
+ #image2{
+          position:absolute;
+          width :200px;
+          height :150px;
+          top:0;
+          right:0;
+ }
+ #uac{
+      text-align:center;
+ }
+#etoile{
+        text-align: center;
+}
+
+ #Eneam{
+         text-align: center;
+ }
+ #bloc{
+       text-align:center;
+ }
+#ccc{
+     font-size:20px;
+}
+#ddd{
+     font-size:20px;
+     text-align:justify;
+}
+#Photo{
+       text-align:center;
+       width :200px;
+       height : 150px;
+}
+#image3{
+          width :200px;
+          height :200px;
+          display:block;
+          margin:auto;
+}
